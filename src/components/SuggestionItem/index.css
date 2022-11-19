@@ -1,0 +1,15 @@
+.list_Item_names {
+  font-size: 12px;
+  color: #475569;
+  font-family: 'Roboto';
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-left: 0px;
+}
+.image_logo {
+  height: 10px;
+}
